@@ -6,11 +6,14 @@ body {
 
 
 
-body {
-	background: url('/assets/64531/green_suburb.jpg') no-repeat center center fixed;
+html {
+	height:100%;
+	background: green;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
- 	padding-top: 100px;
+    background-color: green;
+
 }
+
