@@ -1,19 +1,19 @@
 /*mystyles.css*/
 
 body {
-	padding-top: 70px;
+	padding-top: 0px;
 }
 
 
 
-html {
-	height:100%;
-	background: green;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-color: green;
-
+body {
+     margin: 0;
+     /*background: url('http://upload.wikimedia.org/wikipedia/commons/2/22/Turkish_Van_Cat.jpg')
+*/     
+	background: url('../img/blurbenchv2.jpg');
+	background-size: cover;
+    background-repeat:no-repeat;
+    display: compact;
+    font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+      
 }
-
