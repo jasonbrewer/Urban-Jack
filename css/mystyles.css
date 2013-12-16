@@ -135,7 +135,7 @@ Small media END
 @media (max-width:500px) {
 
 body {
-  height:1000px;
+  height:850px;
 }
 
 }
@@ -150,7 +150,7 @@ medium media 950px START
   h1 {
     padding-top: 0px;
     margin: 0px;
-    font-size: 50px
+    
   }
 
   p {
@@ -158,7 +158,8 @@ medium media 950px START
   }
 
 button {
-  float: right;
+  left: 100px;
+  color: red;
 }
 
 
