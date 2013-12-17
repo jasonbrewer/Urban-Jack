@@ -145,12 +145,61 @@ MODAL contact me
 ********************/
 
 
+/*First break I need to green button to stay right not fall under*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Legacy*/
 
 
 /****************************************************************** Media Queries***
 Small media START
 *********************/
 
+
+/*
 @media (max-width:500px) {
 
 
@@ -167,24 +216,24 @@ Small media START
     margin: 0px;
   }
 
-}
+}*/
 
 /******************
 Small media END
 *********************/
 
-@media (max-width:500px) {
+/*@media (max-width:500px) {
 
 body {
   height:850px;
 }
 
-}
+}*/
 /******************
 medium media 950px START
 *********************/
 
-@media (max-width:990px) {
+/*@media (max-width:993px) {
 
 
 
@@ -196,12 +245,9 @@ medium media 950px START
 
   p {
     margin-top: 15px;
-  }
+  }*/
 
-.btn {
-  margin-left: 50px;
 
-}
 
 
 /******************
