@@ -106,6 +106,44 @@ NAV BAR END
 }
 
 
+
+/***************
+MODAL get started
+********************/
+
+
+div.modal-header{
+  height:50px;
+}
+
+/***************
+MODAL get started 
+********************/
+
+
+/***************
+MODAL contact me
+********************/
+
+
+.contactMe {
+  color:grey;
+  text-align: center;
+
+}
+
+.contactLgo {
+  width:200px;
+  margin: 0 auto;
+  display: block;
+}
+/***************
+MODAL contact me
+********************/
+
+
+
+
 /****************************************************************** Media Queries***
 Small media START
 *********************/
@@ -157,9 +195,9 @@ medium media 950px START
     margin-top: 15px;
   }
 
-button {
-  left: 100px;
-  color: red;
+.btn {
+  margin-left: 50px;
+
 }
 
 
