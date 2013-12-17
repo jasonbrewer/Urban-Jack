@@ -166,6 +166,7 @@ MODAL contact me
 
   #myModal {
     margin: 75px;
+    -webkit-overflow-scrolling: touch
   }
 
 }
@@ -177,6 +178,7 @@ MODAL contact me
 
   #myModal {
     margin: 0px;
+    -webkit-overflow-scrolling: touch
   }
 
 }
