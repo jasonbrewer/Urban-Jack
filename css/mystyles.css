@@ -147,12 +147,39 @@ MODAL contact me
 
 /*First break I need to green button to stay right not fall under*/
 
+/*So the model has some margin space the lead text increase jumbo font position green button*/
+
+@media (max-width:695px) {
+
+  #getstart {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  #lead {
+    margin: 20px 0 20px 0;
+  }
+
+  h1{
+    font-size: 50px;
+  }
+
+  #myModal {
+    margin: 75px;
+  }
+
+}
 
 
+/*xtra small just to the get started modal fits 100% screen and doesn't spegitti*/
 
+@media (max-width:490px) {
 
+  #myModal {
+    margin: 0px;
+  }
 
-
+}
 
 
 
